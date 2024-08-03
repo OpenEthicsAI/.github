@@ -20,8 +20,14 @@ The Open Ethics Initiative aims to engage various stakeholders, including citize
 2. Explore Discord conversations https://openethics.ai/discord/
 3. Participate in meetups, write content or code, browse through open issues and pick the one that makes sense
 
+### Is there a roadmap? What tasks can I work on?
+We have a project management tool in the form of the task board called the _Impact Hub_. You'll get your invite as soon as you Join. Code, research and content-related tasks are added there.
+
 ### I have an idea, what to do next?
 If you have an idea, pick up someone from the community to chat about it first. The best place to start is Discord. Once the idea gets crystalized, add it in the Impact Hub project in this repository and attempt to describe the features and scenarios of your idea as detailed as you can.
+
+### Can I reuse what I contribute?
+In the most cases Open Ethics Initiative is asking all contributors to sign a contributor license agreement (CLA). By signing the CLA you grant the license to Open Ethics to use your contribution but it does not change Your rights to use Your own contributions for any other purpose.
 
 ### How requirements should be described:
 We use the [Gherkin](https://cucumber.io/docs/gherkin/reference/) syntax to formalize requirements. The Gherkin language is easy to read and used for writing test cases, particularly in the context of Behavior-Driven Development (BDD). Gherkin connects the human concept of cause and effect to the software concept of input/process and output.
