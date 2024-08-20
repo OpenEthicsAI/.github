@@ -24,7 +24,22 @@ The Open Ethics Initiative aims to engage various stakeholders, including citize
 We have a project management tool in the form of the task board called the _Impact Hub_. You'll get your invite as soon as you Join. Code, research and content-related tasks are added there.
 
 ### I have an idea, what to do next?
-If you have an idea, pick up someone from the community to chat about it first. The best place to start is Discord. Once the idea gets crystalized, add it in the Impact Hub project in this repository and attempt to describe the features and scenarios of your idea as detailed as you can.
+**•	Prepare a clear & concise presentation/pitch that outlines your idea**
+o	When you start putting together your pitch, start by providing the context. Give a brief overview of the issue or opportunity your idea addresses. This should underline how & why the idea is relevant and viable. Focus on answering the big questions: What, Where, When, Why, How. 
+o	Gather relevant information and insights to support your idea. Make sure you back it up with research or have a solid background to support your idea. You can use examples or use cases to highlight your proposition. 
+o	Be ready to have an answer to most questions that may arise to ensure your idea is well thought out.
+
+**•	Align it with the Open Ethics Existing Ecosystem**
+o	Ensure your idea integrates and aligns with our existing ecosystem and advances our goals. You can take a deeper look at our mission, vision, manifesto, current projects and Impact Hub tasks to see if and where it can best be integrated.
+o	Show how your idea fits either as a standalone project or it can be a part of our current ones.  
+o	Make sure you describe your idea as detailed as possible and try to cover all the phases (design/research, development, implementation etc.).
+
+**•	Share it on Discord or pick up someone from the community to chat about it first**
+o	The best place to start is Discord. Talk to the members & contributors of our community and run your idea by them. Based on the feedback, you can make the necessary edits to your pitch before posting it. 
+o	Once the idea gets crystallized after the feedback, add it in the Impact Hub project in this repository and attempt to describe the features and scenarios of your idea as detailed as you can. 
+o	Breaking it down into subtasks is helpful for a better understanding of it. If you have any questions regarding posting it on Impact Hub (category, task size etc.), please contact Alice at a.pavaloiu@openethics.ai.
+
+This process ensures that your idea is well-prepared, strategically aligned, and refined through a feedback process, which can result in its successful adoption within Open Ethics ecosystem.
 
 ### Can I reuse what I contribute?
 In the most cases Open Ethics Initiative is asking all contributors to sign a contributor license agreement (CLA). By signing the CLA you grant the license to Open Ethics to use your contribution but it does not change Your rights to use Your own contributions for any other purpose.
