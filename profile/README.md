@@ -20,6 +20,12 @@ The Open Ethics Initiative aims to engage various stakeholders, including citize
 2. Explore Discord conversations https://openethics.ai/discord/
 3. Participate in meetups, write content or code, browse through open issues and pick the one that makes sense
 
+### Where do I start from now that I am a member/contributor?
+![Open Ethics Diagram - Where do I start from (3)](https://github.com/user-attachments/assets/e020fa08-43e6-4d92-a1cd-9d8c714429f9)
+1. Go to Open Ethics Projects: https://openethics.ai/projects
+2. Check out Impact Hub: https://orgs/OpenEthicsAI/projects/6/views/1
+3. Check out the process down below if you have an idea to pitch.
+
 ### Is there a roadmap? What tasks can I work on?
 We have a project management tool in the form of the task board called the _Impact Hub_. You'll get your invite as soon as you Join. To be able to navigate it better, here is everything you need to know:
 
