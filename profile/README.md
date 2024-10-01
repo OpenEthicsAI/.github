@@ -24,7 +24,7 @@ The Open Ethics Initiative aims to engage various stakeholders, including citize
 ![Open Ethics Diagram - Where do I start from (1)](https://github.com/user-attachments/assets/5a804625-b583-4dd9-a082-48ed0f985656)
 
 1. Go to Open Ethics Projects: https://openethics.ai/projects
-2. Check out Impact Hub: https://orgs/OpenEthicsAI/projects/6/views/1
+2. Check out Impact Hub: [https://orgs/OpenEthicsAI/projects/6/views/1](https://github.com/orgs/OpenEthicsAI/projects/6/views/1)
 3. Check out the process down below if you have an idea to pitch.
 
 ### Is there a roadmap? What tasks can I work on?
