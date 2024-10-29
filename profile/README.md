@@ -1,4 +1,4 @@
-![2024-10-22 GitHub Fork Demo GIF](https://github.com/user-attachments/assets/ab3c18cd-361d-4037-b601-9a89e0ee95cc)# Hi there 👋
+# Hi there 👋
 
 ## 🙋‍♀️ A short introduction - what is Open Ethics Initiative all about?
 
@@ -40,7 +40,8 @@ You can find all the tasks in Impact Hub.
 ### How do I contribute at the level of the code on GitHub?
 1) if there's a separate code branch created for an issue already, then Fork and uncheck the "main branch only" and contribute with pull request to the working branch.
 2) if no one started working on the issue yet, then fork the main branch, do the changes and contribute with pull request to the main branch.
-When forking, the full copy of the repository is created in your personal account. Check out the tutorial below for a better understanding: 
+When forking, the full copy of the repository is created in your personal account. Check out the tutorial below for a better understanding:
+
 ![2024-10-22 GitHub Fork Demo GIF](https://github.com/user-attachments/assets/06463a3b-2e08-4601-b85c-25e4a991cb6d)
 
 ### I have an idea, what to do next?
