@@ -1,4 +1,4 @@
-# Hi there 👋
+![2024-10-22 GitHub Fork Demo GIF](https://github.com/user-attachments/assets/ab3c18cd-361d-4037-b601-9a89e0ee95cc)# Hi there 👋
 
 ## 🙋‍♀️ A short introduction - what is Open Ethics Initiative all about?
 
@@ -36,6 +36,12 @@ You can find all the tasks in Impact Hub.
 - All tasks fall under a specific category: Research, Development, Content, Design, Outreach or Funding. 
 - All tasks have a specific status: Ready for development, To Do, In progress, Review & Done. The tasks that do not have a status yet assigned are either not yet fully described or are contingent on other tasks to be done first.
 - Once you find a task that is ready for development, which has not been assigned in the category you wish to contribute to, feel free to assign it to yourself and start working on it. Some of the tasks (especially the more complex ones, such as the L & XL-sized ones) require more than one 
+
+### How do I contribute at the level of the code on GitHub?
+1) if there's a separate code branch created for an issue already, then Fork and uncheck the "main branch only" and contribute with pull request to the working branch.
+2) if no one started working on the issue yet, then fork the main branch, do the changes and contribute with pull request to the main branch.
+When forking, the full copy of the repository is created in your personal account. Check out the tutorial below for a better understanding: 
+![2024-10-22 GitHub Fork Demo GIF](https://github.com/user-attachments/assets/06463a3b-2e08-4601-b85c-25e4a991cb6d)
 
 ### I have an idea, what to do next?
 **1.	Prepare a clear & concise presentation/pitch that outlines your idea**
